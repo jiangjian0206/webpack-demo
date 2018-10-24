@@ -1,0 +1,5 @@
+step one：npm init,but it can also be ignored.becase it had the json file already.
+step two:npm i webpack --save-dev
+step three:npm i webpack-cli --save-dev
+step four:npm i webpack-dev-server --save-dev.
+--------------------now it works.this time i can see it.-------------------
